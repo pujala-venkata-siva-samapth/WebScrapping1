@@ -7,12 +7,10 @@ Python 3.x
 requests for fetching webpage data
 BeautifulSoup for parsing HTML
 pandas for data storage and analysis
-Install dependencies using:
 
-sh
-Copy
-Edit
+Install dependencies using:
 pip install requests beautifulsoup4 pandas
+
 Steps in the Script
 Fetch Webpage – Use requests to get the Wikipedia page content.
 Parse HTML – Use BeautifulSoup to extract data from tables.
